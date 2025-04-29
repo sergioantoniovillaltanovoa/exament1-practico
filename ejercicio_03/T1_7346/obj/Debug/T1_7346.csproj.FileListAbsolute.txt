@@ -1,0 +1,7 @@
+C:\Users\UCLAB606\Downloads\T1_7346\T1_7346\obj\Debug\T1_7346.csproj.AssemblyReference.cache
+C:\Users\UCLAB606\Downloads\T1_7346\T1_7346\obj\Debug\T1_7346.csproj.CoreCompileInputs.cache
+C:\Users\UCLAB606\Downloads\T1_7346\T1_7346\bin\Debug\T1_7346.exe.config
+C:\Users\UCLAB606\Downloads\T1_7346\T1_7346\bin\Debug\T1_7346.exe
+C:\Users\UCLAB606\Downloads\T1_7346\T1_7346\bin\Debug\T1_7346.pdb
+C:\Users\UCLAB606\Downloads\T1_7346\T1_7346\obj\Debug\T1_7346.exe
+C:\Users\UCLAB606\Downloads\T1_7346\T1_7346\obj\Debug\T1_7346.pdb

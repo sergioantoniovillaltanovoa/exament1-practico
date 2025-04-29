@@ -7,7 +7,7 @@ namespace primer_ejercicio
         static void Main(string[] args)
         {
             Console.WriteLine("Ingrese el monto a pagar:");
-            if (!double.TryParse(Console.ReadLine(), out double monto))
+            if (double.TryParse(Console.ReadLine(), out double monto))
             {
                 Console.WriteLine("Por favor, ingrese un número válido.");
                 return;

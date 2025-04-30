@@ -13,7 +13,7 @@ namespace Ejercicio_2_de_la_T1
             int unnúmeroenteropositivo;
             // Solicitar al usuario que ingrese un número entero positivo y calcule la suma de sus dígitos
             Console.WriteLine("Ingrese un número entero positivo:");
-            if (!int.TryParse(Console.ReadLine(), out unnúmeroenteropositivo) || unnúmeroenteropositivo < 0)
+            if (int.TryParse(Console.ReadLine(), out unnúmeroenteropositivo) || unnúmeroenteropositivo < 0)
             {
                 // Validar la entrada del usuario
                 Console.WriteLine("Por favor, ingrese un número entero positivo válido.");
